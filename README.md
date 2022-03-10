@@ -1,6 +1,9 @@
-## 👋 Hey everyone, I'm Prince Singh
+# 👋 Hey everyone, I'm Prince Singh
 
-Connect with me here<br>
+<img src="https://images.unsplash.com/photo-1640622308069-4352d9b4dcc8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" height="400px" align="right">
+
+
+## Connect with me <br>
 [Twitter](https://twitter.com/PrinceS43895174) :bird: <br>
 [Instagram](https://www.instagram.com/marvelousprince012233/) 📸 <br>
 [LinkedIn](https://www.linkedin.com/in/prince-singh-4b8ba1225/) 💻 <br>
@@ -27,3 +30,6 @@ Connect with me here<br>
 ▁██▅██████████▁▇█▆▇██████████████████████████▇██████▅
 
 ```
+
+### Watch my contribution graph get eaten by the snake 🐍
+![tsarprince snake gif](https://github.com/tsarprince/tsarprince/blob/output/github-contribution-grid-snake.svg)
