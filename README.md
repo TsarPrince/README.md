@@ -4,7 +4,7 @@
 
 
 ## Connect with me <br>
-[Twitter](https://twitter.com/PrinceS43895174) :bird: <br>
+[Twitter](https://twitter.com/tsarprince) :bird: <br>
 [Instagram](https://www.instagram.com/marvelousprince012233/) 📸 <br>
 [LinkedIn](https://www.linkedin.com/in/prince-singh-4b8ba1225/) 💻 <br>
 [Stack exchange](https://stackexchange.com/users/14860558/prince) <br>
