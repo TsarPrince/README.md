@@ -6,7 +6,7 @@
 ## Connect with me <br>
 [Twitter](https://twitter.com/tsarprince) :bird: <br>
 [Instagram](https://www.instagram.com/marvelousprince012233/) 📸 <br>
-[LinkedIn](https://www.linkedin.com/in/prince-singh-4b8ba1225/) 💻 <br>
+[LinkedIn](https://www.linkedin.com/in/tsarprince/) 💻 <br>
 [Stack exchange](https://stackexchange.com/users/14860558/prince) <br>
 [Stack overflow](https://stackoverflow.com/users/10731521/prince-singh) <br>
 
